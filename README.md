@@ -1,1 +1,2 @@
 # Coffe-Stack-Clone
+This repository contains the source code, assets, and documentation for a Coffee Stack game clone. The game is based on the popular mobile game, where players have to stack coffee cups to create the tallest queue possible without it toppling over. The clone is written in C#, using Unity. The code includes the core game mechanics, such as physics calculations and collision detection, as well as the user interface and graphics. Basic animations also included to enhance the player's experience
